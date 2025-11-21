@@ -13,7 +13,7 @@ A minimal Spring Boot application that accepts a natural-language query, sends i
 - Java 17+
 - Maven
 - Running Ollama daemon (assumed at http://localhost:11434)
-- PostgreSQL (or change configuration to MySQL)()
+- PostgreSQL (or change configuration to MySQL)
 
 ## Run
 1. Edit `src/main/resources/application.yml` with your DB settings.
